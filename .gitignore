@@ -1,0 +1,5 @@
+!bin
+vim/bundle/
+vim/.[a-z]*
+bash/git-aware-prompt
+bashrc.anterior
